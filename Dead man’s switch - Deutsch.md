@@ -139,7 +139,7 @@ Im Beispiel-Setup habe ich alle Informationen auf einen USB Stick kopiert. Anbei
 
 *https://hashraw.com/#broadcast*
 
-*Somit muss man nur den Text in der TX Datei kopieren und auf einer dieser Webseiten einfügen. Danach gelangen die Bitcoins**auf die Wallet, die sich auf diesem USB Stick befindet. Was danach mit diesen geschehen soll, dürft Ihr selber entscheiden.* 
+*Somit muss man nur den Text in der TX Datei kopieren und auf einer dieser Webseiten einfügen. Danach gelangen die Bitcoins auf die Wallet, die sich auf diesem USB Stick befindet. Was danach mit diesen geschehen soll, dürft Ihr selber entscheiden.* 
 
 -------------------------------------------------------------------
 
