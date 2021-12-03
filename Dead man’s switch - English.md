@@ -120,7 +120,7 @@ In the example setup, I copied all the information to a USB stick. Attached is a
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-**This file describes how to deal with an incident and someone gets my bitcoins.* 
+*This file describes how to deal with an incident and someone gets my bitcoins.* 
 *I solved this as follows.*
 
 *On this USB stick is a file with an already signed transaction from my cold storage setup. However, this transaction is only valid from a certain block height. This block height can be seen in the filename of the file.*
