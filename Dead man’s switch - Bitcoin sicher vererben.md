@@ -42,15 +42,15 @@ Als erstes müssen wir eine neue leere Bitcoin Wallet erstellen. Dahin werden di
 
 2. Wallet Name eingeben
 
-![](images\2021-12-02 17_12_07-Sparrow.png)
+<img src="images\2021-12-02 17_12_07-Sparrow.png" style="zoom:67%;" />
 
 3. New or Imported Software Wallet auswählen
 
-![](images\2021-12-02 17_12_21-Sparrow - Recovery Wallet.png)
+<img src="images\2021-12-02 17_12_21-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
 
 4. Enter 24 (or 12) Words -> Generate New
 
-![](images\2021-12-02 17_13_04-Sparrow - Recovery Wallet.png)
+<img src="images\2021-12-02 17_13_04-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
 
 *Hinweis: Dieser Seed im Screenshot dient nur als Beispiel. Diesen bitte nicht benutzen!*
 
@@ -82,14 +82,14 @@ Nun trägst du beim Empfänger die vorher generierte Adresse von der Recovery Wa
 
 Anschließend klickst du auf: Create Transaction und rechts in den Reiter: Detail
 
-![](images\2021-12-02 17_34_33-Sparrow - An meine Erben.png)
+<img src="images\2021-12-02 17_34_33-Sparrow - An meine Erben.png" style="zoom:67%;" />
 
 Unter dem Punkt: Absolute Locktime kannst du nun entweder die Blockhöhe oder ein Datum eingeben, ab wann die Transaktion gültig sein soll.
 Wenn die Eingaben stimmen, klickst du auf “Finalize Transaction for Signing”.
 
 
 
-![](images\2021-12-02 17_36_30-Sparrow - An meine Erben.png)
+<img src="images\2021-12-02 17_36_30-Sparrow - An meine Erben.png" style="zoom:67%;" />
 
 Nun musst du die Transaktion signieren. Dies kann mit der Bitbox, Ledger oder was auch immer du für eine Main Wallet benutzt, gemacht werden. In unserem Beispiel ist die Main Wallet ebenfalls eine Software Wallet und somit kann man einfach auf den Sign Button klicken.
 
@@ -101,17 +101,17 @@ Nun musst du die Transaktion signieren. Dies kann mit der Bitbox, Ledger oder wa
 
 Dafür klicken wir zuerst auf: View Final Transaction. Alle Informationen werden noch einmal dargestellt.Nun kannst du den Hex Code (unten farblich dargestellt) kopieren und zum Seed mit der Recovery Wallet beilegen. In unserem Beispiel ist es folgender Code: 
 
-![](images\2021-12-02 17_42_43-.png)
+<img src="images\2021-12-02 17_42_43-.png" style="zoom:67%;" />
 
 Die Transaktion kann auch noch als File abgespeichert werden: File -> Save Transaction (Ctrl + S)
 
-![](images\2021-12-02 17_42_55-Sparrow - An meine Erben.png)
+<img src="images\2021-12-02 17_42_55-Sparrow - An meine Erben.png" style="zoom:67%;" />
 
 Die signierte Transaktion kann nun auch zu jeder Zeit mittels copy und paste hier auf dieser Webseite verifiziert werden:
 
 [Bitcoin Wallet by Coinb.in](https://www.coinb.in/#verify)
 
-![](images\2021-12-02 17_44_58-Bitcoin Wallet by Coinb.in und 3 weitere Seiten - Persönlich – Microsoft​ Edge.png)
+<img src="images\2021-12-02 17_44_58-Bitcoin Wallet by Coinb.in und 3 weitere Seiten - Persönlich – Microsoft​ Edge.png" style="zoom:67%;" />
 
 #### **Schlusswort**
 
@@ -154,6 +154,6 @@ E-Mail: [cercatrova21@protonmail.com](mailto:cercatrova21@protonmail.com)
 
 Falls du einen Mehrwert aus diesem Artikel entnehmen konntest, freue ich mich sehr über eine Lightning Donation:
 
-![](images\QR_lightning.png)
+<img src="images\QR_lightning.png" style="zoom:67%;" />
 
 LNURL1DP68GURN8GHJ7UMHD9EHXTT9DE5KWMTP9E3KSTMVDE6HYMRS9ASHQ6F0WCCJ7MRWW4EXCTEJX6Z6W3
