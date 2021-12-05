@@ -38,7 +38,7 @@ Als erstes müssen wir eine neue leere Bitcoin Wallet erstellen. Dahin werden di
 
 1. Sparrow öffnen und oben auf: File -> New Wallet klicken
 
-<img src=".\images\2021-12-02 17_11_40-Sparrow.png" style="zoom: 67%;" />
+<img src="./images/2021-12-02 17_11_40-Sparrow.png" style="zoom: 67%;" />
 
 2. Wallet Name eingeben
 
