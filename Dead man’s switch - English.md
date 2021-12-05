@@ -37,19 +37,19 @@ First, we need to create a new empty Bitcoin wallet. This is where the Bitcoins 
 
 1. Open Sparrow and click on: File -> New Wallet click
 
-<img src="images\2021-12-02 17_11_40-Sparrow.png" style="zoom: 67%;" />
+<img src="./images/2021-12-02 17_11_40-Sparrow.png" style="zoom: 67%;" />
 
 2. Enter wallet name
 
-<img src="images\2021-12-02 17_12_07-Sparrow.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_12_07-Sparrow.png" style="zoom:67%;" />
 
 3. Select New or Imported Software Wallet
 
-<img src="images\2021-12-02 17_12_21-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_12_21-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
 
 4. Enter 24 (or 12) Words -> Generate New
 
-<img src="images\2021-12-02 17_13_04-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_13_04-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
 
 *Note: This seed in the screenshot is only used as an example. Please do not use this one!*
 
@@ -57,13 +57,13 @@ First, we need to create a new empty Bitcoin wallet. This is where the Bitcoins 
 
 5. Create Keystore -> m/84'/0'/0' -> Import Keystore -> Apply
 
-<img src="images\2021-12-02 17_20_11-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_20_11-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
 
 Now we need to generate a receive address from this wallet to create the Timelock transaction afterwards. To do this, click Receive and copy the address:
 
 *bc1qts6l0rdq22l24fqm79mm9fmnk0zx9udlmps6nr*
 
-<img src="images\2021-12-02 17_22_23-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_22_23-Sparrow - Recovery Wallet.png" style="zoom:67%;" />
 
 6. Connect Main Wallet with Sparrow
 
@@ -73,7 +73,7 @@ Now comes the Timelock transaction. To do this you need to connect your hardware
 
 Once you have access to your Main Wallet, click Send:
 
-<img src="images\2021-12-02 17_30_20-Sparrow - Main Wallet.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_30_20-Sparrow - Main Wallet.png" style="zoom:67%;" />
 
 Now enter the previously generated address from the recovery wallet for the recipient. You can enter your own text as a label. What you write here is not relevant. For the amount, you can now select either everything (Max button) or only individual UTXOs. 
 
@@ -81,14 +81,14 @@ Now enter the previously generated address from the recovery wallet for the reci
 
 Then click on: Create Transaction and right into the tab: Detail
 
-<img src="images\2021-12-02 17_34_33-Sparrow - An meine Erben.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_34_33-Sparrow - An meine Erben.png" style="zoom:67%;" />
 
 Under the item: Absolute Locktime you can now enter either the block height or a date from which the transaction should be valid.
 If the entries are correct, click on "Finalize Transaction for Signing".
 
 
 
-<img src="images\2021-12-02 17_36_30-Sparrow - An meine Erben.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_36_30-Sparrow - An meine Erben.png" style="zoom:67%;" />
 
 Now you need to sign the transaction. This can be done with Bitbox, Ledger or whatever main wallet you use. In our example, the main wallet is also a software wallet, so you can simply click the sign button.
 
@@ -100,17 +100,17 @@ Now you need to sign the transaction. This can be done with Bitbox, Ledger or wh
 
 To do this, we first click on: View Final Transaction. Now you can copy the hex code (shown in color below) and attach it to the seed with the recovery wallet. In our example it is the following code: 
 
-<img src="images\2021-12-02 17_42_43-.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_42_43-.png" style="zoom:67%;" />
 
 The transaction can also be saved as a file: File -> Save Transaction (Ctrl + S)
 
-<img src="images\2021-12-02 17_42_55-Sparrow - An meine Erben.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_42_55-Sparrow - An meine Erben.png" style="zoom:67%;" />
 
 The signed transaction can now also be verified at any time by copy and paste here on this website:
 
 [Bitcoin Wallet by Coinb.in](https://www.coinb.in/#verify)
 
-<img src="images\2021-12-02 17_44_58-Bitcoin Wallet by Coinb.in und 3 weitere Seiten - Persönlich – Microsoft​ Edge.png" style="zoom:67%;" />
+<img src="./images/2021-12-02 17_44_58-Bitcoin Wallet by Coinb.in und 3 weitere Seiten - Persönlich – Microsoft​ Edge.png" style="zoom:67%;" />
 
 #### **Conclusion**
 
@@ -153,6 +153,6 @@ E-Mail: [cercatrova21@protonmail.com](mailto:cercatrova21@protonmail.com)
 
 If you were able to take any added value from this article, I would be very happy to receive a Lightning Donation:
 
-<img src="images\QR_lightning.png" style="zoom:67%;" />
+<img src="./images/QR_lightning.png" style="zoom:67%;" />
 
 LNURL1DP68GURN8GHJ7UMHD9EHXTT9DE5KWMTP9E3KSTMVDE6HYMRS9ASHQ6F0WCCJ7MRWW4EXCTEJX6Z6W3
