@@ -5,3 +5,5 @@ In this repo I explain a simple backup strategy for Bitcoin Hodler wallets where
 [Instruction English](https://github.com/cercatrova21/bitcoin-dead-mans-switch/blob/master/Dead%20man’s%20switch%20-%20English.md)
 
 [Anleitung Deutsch](https://github.com/cercatrova21/bitcoin-dead-mans-switch/blob/master/Dead%20man’s%20switch%20-%20Deutsch.md)
+
+[Instructions en français](https://github.com/cercatrova21/bitcoin-dead-mans-switch/blob/master/Dead%20man’s%20switch%20-%20Français.md)
